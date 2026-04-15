@@ -11,4 +11,4 @@ https://www.linkedin.com/posts/srikanthsugavanam_photonics-outreach-ugcPost-7450
 
 ## Image of the box spectrometer
 It's literally a box
-https://github.com/SrikanthS-IIT/Box-Spectrometer/blob/main/Box%20spectrometer.jpeg 
+![Box spectrometer](Box spectrometer.jpeg)
